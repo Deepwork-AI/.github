@@ -1,5 +1,5 @@
 
-# Lattice AI
+# Deepwork AI
 
 ## About Us 🎀
 
